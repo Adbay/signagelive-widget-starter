@@ -1,2 +1,2 @@
-# signagelive-widget-starter
+# Signagelive Starter Widget
 Starter repo for Signagelive widgets.
